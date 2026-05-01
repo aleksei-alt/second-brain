@@ -1,0 +1,34 @@
+# @liamjohnston.ai — 60 агентов за 75% дешевле (Ruflo)
+
+**URL:** https://www.instagram.com/reel/DWtsJ4XAgw_/
+**Метрики:** 13.7k лайков, **12.4k комментов**, 8.8k сохранений
+**Теги:** #hook #free #agents #ruflo #github #claudecode
+
+## Хук
+"Your Claude code runs one agent. This runs hundreds for 75% less."
+
+## Контент
+Ruflo — open source, 14k GitHub stars, 60 агентов параллельно.
+Роутит задачи к дешёвым моделям автоматически — hard stuff идёт в Opus, остальное бесплатно.
+CTA: "Comment FLOW" → 12,400 комментов
+
+## Почему залетело
+- FREE + конкретный % = триггер
+- Цифры доверия (14k stars, 75%, 60 agents)
+- Один CTA = одно слово
+
+## Формат
+- Bali-temple background — не студия, просто интересный бэк
+- Чистый talking head
+- Простой текст overlay внизу
+
+## Что берём в работу
+- Шаблон: "Ты делаешь X одним способом. Это делает X в 60 раз больше за 75% дешевле."
+- FREE + точный процент = мастхэв в хуке
+- Фон = интересный, не дорогой
+
+## RU адаптация хука
+"Ты платишь за Claude полную цену. Я нашёл способ запускать 60 агентов за 75% дешевле. Бесплатно."
+
+## Связанное
+[[2026-05-01-hooks-masterclass]] · [[droppable-studio-moodboard]]
