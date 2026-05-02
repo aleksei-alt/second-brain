@@ -5,14 +5,14 @@
 
 ## 🔥 3 главных тренда:
 
-1. **AI Agents бум** – Sola, OpenAI tools, Relay.app показывают спрос на no-code агентов. Это не баловство, это основной тренд.
-2. **Enterprise automation** – Zapier MCP, WordPress AI automation, deterministic AI (Interfaze) для реальных задач. B2B берёт.
+1. **AI Agents бум** – Sola, [[OpenAI]] tools, Relay.app показывают спрос на no-code агентов. Это не баловство, это основной тренд.
+2. **Enterprise [[автоматизация]]** – Zapier MCP, WordPress AI automation, deterministic AI (Interfaze) для реальных задач. B2B берёт.
 3. **LLM оптимизация** – Compresr решает проблему context length. Costs matters.
 
 ## 🎬 Идея для рилса:
-**Хук:** "AI боты испанской компании автоматизировали 80% рутины за месяц"
-- Покажи: Email → Telegram bot → CRM → Action (реальный кейс)
-- Angle: "Это не ChatGPT, это рабочий инструмент"
+**[[хуки]]:** "AI боты испанской компании автоматизировали 80% рутины за месяц"
+- Покажи: Email → [[Telegram]] bot → CRM → Action (реальный кейс)
+- Angle: "Это не [[ChatGPT]], это рабочий инструмент"
 
 ## 💰 Идея для клиента:
 **No-code AI automations для испанского SMB:**

@@ -1,6 +1,6 @@
-# @dayanamaksim — Посты за 10 минут через Claude
+# @dayanamaksim — Посты за 10 минут через [[Claude]]
 
-**URL:** https://www.instagram.com/reel/DWwSFlVDQPl/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DWwSFlVDQPl/
 **Длина:** 66 сек
 **Теги:** #claude #projects #carousel #posts #workflow
 
@@ -16,7 +16,7 @@ CTA: "Пиши КЛОД" → инструкция
 
 ## Применение для @alekseimediaru
 - Workflow для создания карусельных постов без дизайнера
-- Хук для рилса: "Как я делаю пост за 10 минут без дизайнера"
+- [[хуки]] для рилса: "Как я делаю пост за 10 минут без дизайнера"
 - Можно запустить параллельно с рилсами
 
 ## Связанное

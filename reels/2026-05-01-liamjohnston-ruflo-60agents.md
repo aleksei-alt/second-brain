@@ -1,11 +1,11 @@
 # @liamjohnston.ai — 60 агентов за 75% дешевле (Ruflo)
 
-**URL:** https://www.instagram.com/reel/DWtsJ4XAgw_/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DWtsJ4XAgw_/
 **Метрики:** 13.7k лайков, **12.4k комментов**, 8.8k сохранений
-**Теги:** #hook #free #agents #ruflo #github #claudecode
+**Теги:** #[[хуки]] #free #agents #ruflo #github #claudecode
 
-## Хук
-"Your Claude code runs one agent. This runs hundreds for 75% less."
+## [[хуки]]
+"Your [[Claude]] code runs one [[агенты]]. This runs hundreds for 75% less."
 
 ## Контент
 Ruflo — open source, 14k GitHub stars, 60 агентов параллельно.

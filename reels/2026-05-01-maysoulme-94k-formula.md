@@ -1,8 +1,8 @@
 # @maysoulme — 94k подписчиков за 1.5 месяца, 15 мин/день
 
-**URL:** https://www.instagram.com/reel/DXi0B2XBaJp/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DXi0B2XBaJp/
 **Длина:** 41 сек
-**Теги:** #formula #claude #growth #viral-titles #workflow
+**Теги:** #formula #[[Claude]] #growth #viral-titles #workflow
 
 ## Схема
 1. Explore → твоя тема → 10 вирусных заголовков (1M+ просмотров, последний месяц)

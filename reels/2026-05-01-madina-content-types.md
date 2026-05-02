@@ -1,6 +1,6 @@
-# @madina.aldaniyaz — 3 типа контента, каждый рилс 1000 подписчиков
+# @madina.aldaniyaz — 3 типа контента, каждый [[рилсы]] 1000 подписчиков
 
-**URL:** https://www.instagram.com/reel/DVfs0NHiqlH/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DVfs0NHiqlH/
 **Длина:** 50 сек
 **Теги:** #content-types #expert #personal #reach #subscribers
 

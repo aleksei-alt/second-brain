@@ -1,6 +1,6 @@
 # @damianappice — Trial Reels стратегия (1M подписчиков за год)
 
-**URL:** https://www.instagram.com/reel/DXKYs6oIonT/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DXKYs6oIonT/
 **Метрики:** 301k просмотров, 4.5k лайков, 1022 комментов
 **Длина:** 72 сек
 **Аккаунт:** verified, 60M просмотров за последнюю неделю

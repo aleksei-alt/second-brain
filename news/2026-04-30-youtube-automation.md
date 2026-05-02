@@ -1,4 +1,4 @@
-# YouTube Shorts AI Automation — разбор видео
+# YouTube Shorts AI [[автоматизация]] — разбор видео
 
 **Источник:** https://youtu.be/c4RNj6FrqP8
 **Канал:** Артём Слабун | **Просмотры:** 106k

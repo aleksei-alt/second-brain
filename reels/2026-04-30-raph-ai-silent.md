@@ -1,13 +1,13 @@
 # @raph__ai — Silent chill формат
 
-**URL:** https://www.instagram.com/reel/DS43q8BDdTl/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DS43q8BDdTl/
 **Метрики:** 843 лайков, 783 комментария, 355 сохранений
 **Теги:** #silent #novoice #desk #overlay #ai
 
 ## Формат
 - Сидит за компом с мониторами сзади, красное освещение
 - Ни слова — просто сидит
-- Текст оверлей: "Just me chilling while Claude build $5k marketing campaign all on its own"
+- Текст оверлей: "Just me chilling while [[Claude]] build $5k marketing campaign all on its own"
 - CTA в комментарии: "Comment CLAUDE to receive..."
 
 ## Почему работает

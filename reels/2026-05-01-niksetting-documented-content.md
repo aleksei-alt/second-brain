@@ -1,12 +1,12 @@
 # @niksetting — Documented vs Non-documented контент
 
-**URL:** https://www.instagram.com/reel/DT1A7P8jD1w/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DT1A7P8jD1w/
 **Длина:** 86 сек
 **Теги:** #documentary #authentic #authority #process
 
 ## Главная идея
 
-**Non-documented (слабо):** включаешь камеру чтобы говорить о теме (скриптованный контент, ChatGPT-топики)
+**Non-documented (слабо):** включаешь камеру чтобы говорить о теме (скриптованный контент, [[ChatGPT]]-топики)
 **Documented (сильно):** делаешь своё дело пока камера включена — естественный авторитет
 
 Volume без смысла = не работает. 100 лайков и 0 покупателей = сигнал что стратегия неверная.

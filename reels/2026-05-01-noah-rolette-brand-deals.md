@@ -1,6 +1,6 @@
 # @noah.rolette — Бренд-деалы через холодный аутрич
 
-**URL:** https://www.instagram.com/reel/DV9ER4uEVGX/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DV9ER4uEVGX/
 **Длина:** 149 сек
 **Теги:** #monetization #branddeals #outreach #linkedin #sponsorship
 

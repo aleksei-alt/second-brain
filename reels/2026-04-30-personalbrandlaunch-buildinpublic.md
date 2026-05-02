@@ -1,6 +1,6 @@
 # @personalbrandlaunch — Build in Public формула
 
-**URL:** https://www.instagram.com/reel/DS43q8BDdTl/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DS43q8BDdTl/
 **Метрики:** 160k просмотров, 5538 лайков, 3404 комментария
 **Теги:** #buildinpublic #series #talking-head #cta #ai
 

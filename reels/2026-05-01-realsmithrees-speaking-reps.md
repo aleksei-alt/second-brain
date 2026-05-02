@@ -1,6 +1,6 @@
 # @realsmithrees — Навык речи через повторения
 
-**URL:** https://www.instagram.com/reel/DUxGTTbjUol/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DUxGTTbjUol/
 **Длина:** 27 сек
 **Теги:** #speaking #practice #reps #articulation
 

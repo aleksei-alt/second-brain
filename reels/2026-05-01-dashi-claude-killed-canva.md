@@ -1,10 +1,10 @@
-# @dashi_eshiev — "Claude убил Canva" формула
+# @dashi_eshiev — "[[Claude]] убил Canva" формула
 
-**URL:** https://www.instagram.com/reel/DXjLzsNNktN/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DXjLzsNNktN/
 **Длина:** 25 сек
-**Теги:** #dashi #hook #claude #canva #carousel #formula
+**Теги:** #dashi #[[хуки]] #claude #canva #carousel #formula
 
-## Хук
+## [[хуки]]
 "Клод только что убил Канву."
 
 ## Контент

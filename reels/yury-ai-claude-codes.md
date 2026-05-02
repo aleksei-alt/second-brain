@@ -1,14 +1,14 @@
-# @yury.ai — 5 secret Claude codes
-#format #hook #idea
+# @yury.ai — 5 secret [[Claude]] codes
+#format #[[хуки]] #idea
 
-**URL:** https://instagram.com/reel/DWrNfCMjJQ4
+**URL:** https://[[Instagram]].com/[[рилсы]]/DWrNfCMjJQ4
 **Stats:** 78k plays, 2738 comments (высокий comment rate)
 **Автор:** @yury.ai
 
 ## Формат
 Talking head, 30 сек. Список из 5 пунктов. CTA "Comment CODES".
 
-## Хук
+## [[хуки]]
 "Here are five secret codes for Claude nobody talks about."
 
 ## Структура

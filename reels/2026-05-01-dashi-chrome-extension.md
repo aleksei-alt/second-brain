@@ -1,10 +1,10 @@
-# @dashi_eshiev — Claude Chrome Extension
+# @dashi_eshiev — [[Claude]] Chrome Extension
 
-**URL:** https://www.instagram.com/reel/DXoPVDcN0fl/
+**URL:** https://www.[[Instagram]].com/[[рилсы]]/DXoPVDcN0fl/
 **Длина:** 25 сек
-**Теги:** #claude #chrome #extension #automation #browser
+**Теги:** #claude #chrome #extension #[[автоматизация]] #browser
 
-## Хук
+## [[хуки]]
 "Claude выкатили расширение для Chrome — теперь он делает твою работу прямо в браузере."
 
 ## Фишка (цепляющая)

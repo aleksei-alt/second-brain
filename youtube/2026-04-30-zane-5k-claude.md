@@ -1,4 +1,4 @@
-# "$5,000/month with Claude is easy" — Zane
+# "$5,000/month with [[Claude]] is easy" — Zane
 
 **URL:** https://www.youtube.com/watch?v=vuKXmxn1r8U
 **Просмотры:** 5,205 | **Теги:** #b2b #claude #agency #niche #saas
