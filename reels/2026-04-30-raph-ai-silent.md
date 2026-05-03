@@ -8,7 +8,7 @@
 - Сидит за компом с мониторами сзади, красное освещение
 - Ни слова — просто сидит
 - Текст оверлей: "Just me chilling while [[Claude]] build $5k marketing campaign all on its own"
-- CTA в комментарии: "Comment CLAUDE to receive..."
+- CTA в комментарии: "Comment [[Claude]] to receive..."
 
 ## Почему работает
 - Релакс-бро энергия — не продаёт, просто показывает

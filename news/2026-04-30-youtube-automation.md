@@ -2,7 +2,7 @@
 
 **Источник:** https://youtu.be/c4RNj6FrqP8
 **Канал:** Артём Слабун | **Просмотры:** 106k
-**Теги:** #youtube #shorts #automation #faceless #ai
+**Теги:** #youtube #shorts #[[автоматизация]] #faceless #ai
 
 ## Суть схемы
 

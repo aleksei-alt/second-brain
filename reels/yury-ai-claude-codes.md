@@ -9,7 +9,7 @@
 Talking head, 30 сек. Список из 5 пунктов. CTA "Comment CODES".
 
 ## [[хуки]]
-"Here are five secret codes for Claude nobody talks about."
+"Here are five secret codes for [[Claude]] nobody talks about."
 
 ## Структура
 Код → что делает → одна строка. Повтор 5 раз. CTA одно слово.
@@ -21,6 +21,6 @@ Talking head, 30 сек. Список из 5 пунктов. CTA "Comment CODES"
 - God Mode — most complete answer possible
 
 ## Адаптация для Алексея
-Хук: "Жаль что не знал об этом когда начал пользоваться Claude."
+[[хуки]]: "Жаль что не знал об этом когда начал пользоваться Claude."
 Язык: русский. Коды оставить EN — выглядят как технические термины.
 CTA: "Напиши КОД"

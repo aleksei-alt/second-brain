@@ -7,7 +7,7 @@
 ## Механика
 
 ### Ключевое
-НЕ писать в Instagram аккаунт бренда — там стажёр без бюджета.
+НЕ писать в [[Instagram]] аккаунт бренда — там стажёр без бюджета.
 LinkedIn → Marketing Manager / Head of Sponsorships / Partnerships → они с деньгами.
 
 ### Схема

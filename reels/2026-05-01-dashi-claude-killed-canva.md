@@ -2,13 +2,13 @@
 
 **URL:** https://www.[[Instagram]].com/[[рилсы]]/DXjLzsNNktN/
 **Длина:** 25 сек
-**Теги:** #dashi #[[хуки]] #claude #canva #carousel #formula
+**Теги:** #dashi #[[хуки]] #[[Claude]] #canva #carousel #formula
 
 ## [[хуки]]
 "Клод только что убил Канву."
 
 ## Контент
-Claude Projects + Instructions с Master Prompt → карусели Instagram
+Claude Projects + Instructions с Master Prompt → карусели [[Instagram]]
 Структура, стрелки, оформление — всё внутри Claude.
 
 ## CTA
@@ -20,7 +20,7 @@ Claude Projects + Instructions с Master Prompt → карусели Instagram
 
 ## Применение
 - Настроить самому: Projects → Instructions → Master Prompt → карусели
-- Тема для рилса: адаптировать хук под другой инструмент
+- Тема для рилса: адаптировать [[хуки]] под другой инструмент
 
 ## Связанное
 [[droppable-studio-moodboard]] · [[2026-04-30-formats-research]]

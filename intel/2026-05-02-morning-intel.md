@@ -6,7 +6,7 @@
 ## 🔥 3 главных тренда:
 
 1. **AI Agents бум** – Sola, [[OpenAI]] tools, Relay.app показывают спрос на no-code агентов. Это не баловство, это основной тренд.
-2. **Enterprise [[автоматизация]]** – Zapier MCP, WordPress AI automation, deterministic AI (Interfaze) для реальных задач. B2B берёт.
+2. **Enterprise [[автоматизация]]** – Zapier MCP, WordPress AI [[автоматизация]], deterministic AI (Interfaze) для реальных задач. B2B берёт.
 3. **LLM оптимизация** – Compresr решает проблему context length. Costs matters.
 
 ## 🎬 Идея для рилса:
@@ -45,7 +45,7 @@
 
 ### Product Hunt
 - Relay.app - AI powered automations
-- OpenAI launches new tools for building agents
+- [[OpenAI]] launches new tools for building agents
 - World's 1st full AI WordPress automation
 - Zapier MCP - Connect your AI to any app with Zapier MCP
 - testers.ai launches

@@ -1,5 +1,5 @@
 # @droppablestudio — [[Claude]] Code mood board [[автоматизация]]
-#format #[[хуки]] #idea #claude-code
+#format #[[хуки]] #idea #[[Claude]]-code
 
 **URL:** https://[[Instagram]].com/[[рилсы]]/DXu6WTsCLU-
 **Автор:** @droppablestudio

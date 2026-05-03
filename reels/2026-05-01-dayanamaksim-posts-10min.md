@@ -2,7 +2,7 @@
 
 **URL:** https://www.[[Instagram]].com/[[рилсы]]/DWwSFlVDQPl/
 **Длина:** 66 сек
-**Теги:** #claude #projects #carousel #posts #workflow
+**Теги:** #[[Claude]] #projects #carousel #posts #workflow
 
 ## Схема
 1. Claude Projects → 5 своих текстов (стиль, пунктуация, эмодзи)
