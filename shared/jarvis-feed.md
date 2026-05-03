@@ -4,3 +4,21 @@
 
 ## 2026-05-03 03:00
 Ниш-ресёрч обновлён. Топ ниши для AI ботов. Файл: 2026-05-03-niche-research.md
+
+## 2026-05-03 05:00
+Найдено 13 лидов [fitness]: B-Fitness Entrenamiento y Salud, Pau Sala - Entrenador Personal en Alicante, Entrenador Personal en Alicante - ScorusFitness
+
+## 2026-05-03 05:14
+Найдено 1 лидов [realestate]: Costa Blanca Grup
+
+## 2026-05-03 05:17
+Startup discovery: 5 новых идей. Файл: 2026-05-03-discovery.md
+
+## 2026-05-03 05:20
+Discovery: 5 B2B+B2C идей → 2026-05-03-05h-discovery.md
+
+## 2026-05-03 05:22
+B2B discovery: 5 идей → 2026-05-03-05h-b2b.md
+
+## 2026-05-03 05:24
+B2B discovery: 5 идей → 2026-05-03-05h-b2b.md
