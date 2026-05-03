@@ -34,3 +34,6 @@ MVP построен: spain_realty_bot/main.py
 
 ## 2026-05-03 10:45
 Build iterate: spain_realty_bot улучшен. Бэкап: main_2026-05-03.py.bak
+
+## 2026-05-03 11:16
+B2C discovery: 5 идей → 2026-05-03-11h-b2c.md
