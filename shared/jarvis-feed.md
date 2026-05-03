@@ -43,3 +43,6 @@ B2C winner picked: 2026-05-03
 
 ## 2026-05-03 12:54
 Найдено 8 лидов [beauty-bcn]: Nailalista - Barcelona, CUTE NAILS beauty & nail bar, NY Beauty Spa
+
+## 2026-05-03 13:55
+Топ-5 лидов скорировано: 2026-05-03-top-leads.md
