@@ -28,3 +28,6 @@ B2B winner picked: 2026-05-03
 
 ## 2026-05-03 09:40
 MVP спек написан: 2026-05-03-mvp-spec.md
+
+## 2026-05-03 10:10
+MVP построен: spain_realty_bot/main.py
