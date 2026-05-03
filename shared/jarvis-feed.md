@@ -46,3 +46,6 @@ B2C winner picked: 2026-05-03
 
 ## 2026-05-03 13:55
 Топ-5 лидов скорировано: 2026-05-03-top-leads.md
+
+## 2026-05-03 14:25
+Найдено 1 лидов [fitness]: Eli Galvin Personal Training Studio
