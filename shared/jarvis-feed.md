@@ -40,3 +40,6 @@ B2C discovery: 5 идей → 2026-05-03-11h-b2c.md
 
 ## 2026-05-03 12:18
 B2C winner picked: 2026-05-03
+
+## 2026-05-03 12:54
+Найдено 8 лидов [beauty-bcn]: Nailalista - Barcelona, CUTE NAILS beauty & nail bar, NY Beauty Spa
